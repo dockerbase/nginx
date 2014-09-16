@@ -26,3 +26,6 @@ This repository contains **Dockerbase** of [Nginx](http://nginx.org/) for [Docke
 
     stop:
         sudo docker stop -t 10 `cat cidfile`
+
+### Information
+[Components & Versions](https://github.com/dockerbase/nginx/blob/master/COMPONENTS)
